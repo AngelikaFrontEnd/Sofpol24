@@ -5,7 +5,7 @@
 
 ### 🎨 Project Figma
 
-🔗 [FIGMA](https://www.figma.com/proto/XKLnGQS4mnznHBvOmmawcR/PORTFOLIO?node-id=152-88&t=Z3zy0Bvt0NIcsSgq-1&scaling=min-zoom&content-scaling=fixed&page-id=144%3A19https://www.figma.com/design/f1q4PcI4F35smi8pCovRtC/SOFPOL-nowa-strona?node-id=0-1&t=kSdXddA7ja2HWqrX-1](https://www.figma.com/design/f1q4PcI4F35smi8pCovRtC/SOFPOL-nowa-strona?node-id=0-1&t=kSdXddA7ja2HWqrX-1)
+[![Open in Figma](https://img.shields.io/badge/🔗_View_Full_Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/f1q4PcI4F35smi8pCovRtC/SOFPOL-nowa-strona?node-id=0%3A1&scaling=min-zoom&page-id=0%3A1)
 
 ![WordPress](https://img.shields.io/badge/WordPress-6.5+-21759B?logo=wordpress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
