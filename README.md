@@ -56,7 +56,7 @@ Official e-commerce website of SOFPOL24 - Polish furniture manufacturer. Built w
 ### 2. Paid Advertising
 | Platform       | Strategy                          | Budget Allocation |
 |----------------|-----------------------------------|------------------|
-| Meta Ads       | Dynamic product carousels + AR previews | 40%             |
+| Meta Ads       | Dynamic product carousels         | 40%             |
 | Google Ads     | Shopping campaigns + PMax         | 35%             |
 | TikTok         | Behind-the-scenes production clips | 15%             |
 
