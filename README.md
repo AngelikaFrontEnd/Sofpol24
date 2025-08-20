@@ -1,7 +1,10 @@
 # 🏢 SOFPOL24 - Business Website
 
+SOFPOL24 is the official e-commerce website for a Polish furniture manufacturer. It's built on the WordPress platform to effectively showcase products and facilitate online purchases.
+
+
 ## ✨ Live Demo
-➡️ [View Live Portfolio](https://sofpol24.cfolks.pl/)
+➡️ [View Live Portfolio](https://sofpol24.pl/)
 
 ### 🎨 Project Figma
 
@@ -46,25 +49,33 @@ Official e-commerce website of SOFPOL24 - Polish furniture manufacturer. Built w
 - **Interior Design Blog**
   - Weekly articles on space optimization
   - "Furniture Care Guides" series
-- **Keyword Optimization**
-  - Primary: `"handmade wooden furniture Poland"`
+- **Content & SEO**
+  - Content Optimization: The website's text is optimized for search engines, including the fine-tuning of meta descriptions, tags, headings, and keywords.
+ - Technical SEO: Focus on structured data (Schema markup) and image optimization (WebP format) to improve site performance.
+ - Blog: Regular blog posts on interior design and furniture care guides help drive organic traffic.
   - Secondary: `"eco-friendly office desks Europe"`
 - **Technical SEO**
   - Schema markup implementation
   - Image optimization (WebP format)
 
 ### 2. Paid Advertising
-| Platform       | Strategy                          | Budget Allocation |
-|----------------|-----------------------------------|------------------|
-| Meta Ads       | Dynamic product carousels         | 40%             |
-| Google Ads     | Shopping campaigns + PMax         | 35%             |
-| TikTok         | Behind-the-scenes production clips | 15%             |
+| Platform       | Strategy                          
+|----------------|----------------------------------
+| Meta Ads       | Dynamic product carousels         
+| Google Ads     | Shopping campaigns + PMax         
+| TikTok         | Behind-the-scenes production clips 
 
+### 3. Analytics & Tools
+Google Analytics: for monitoring website traffic and user behavior.
 
-### 3. Email Automation
+Google Tag Manager: for managing tracking codes and tags.
 
-flowchart LR
-    A[Welcome Email] --> B[Day 3: Style Guide]
-    B --> C[Day 7: Best Sellers]
-    D[Abandoned Cart] --> E[+Free Shipping Offer]
-    E --> F[Last Chance Notification]
+Google Ads & Facebook Ads: for managing and optimizing paid campaigns.
+
+### 4. Email Automation
+
+📧 Email Automation
+Email automation is a powerful tool for nurturing customer relationships and driving sales. For SOFPOL24, we've implemented several key automated email campaigns to engage customers at every stage of their journey.
+1. Welcome Email
+2. Order Confirmation Email
+3. Shipping Confirmation Email
